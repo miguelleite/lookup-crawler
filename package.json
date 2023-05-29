@@ -1,0 +1,27 @@
+{
+  "name": "lookup-crawler",
+  "version": "1.0.0",
+  "description": "Web crawler for periodic text lookup",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miguelleite/lookup-crawler.git"
+  },
+  "keywords": [
+    "web",
+    "crawler",
+    "text",
+    "lookup",
+    "cron",
+    "job"
+  ],
+  "author": "Miguel Leite <miguelacleite@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miguelleite/lookup-crawler/issues"
+  },
+  "homepage": "https://github.com/miguelleite/lookup-crawler#readme"
+}
